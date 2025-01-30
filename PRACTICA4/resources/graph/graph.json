@@ -1,0 +1,11 @@
+[{"id": 1, "origen": 1, "destino": 2},
+{"id": 2, "origen": 1, "destino": 3},
+{"id": 3, "origen": 2, "destino": 1},
+{"id": 4, "origen": 2, "destino": 4},
+{"id": 5, "origen": 3, "destino": 1},
+{"id": 6, "origen": 3, "destino": 5},
+{"id": 7, "origen": 4, "destino": 2},
+{"id": 8, "origen": 4, "destino": 5},
+{"id": 9, "origen": 5, "destino": 3},
+{"id": 10, "origen": 5, "destino": 4},
+]
